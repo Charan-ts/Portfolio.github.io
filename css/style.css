@@ -383,6 +383,10 @@ header .follow a:hover {
     width: 50%;
 }
 
+.skills .row-2 .skill-bar .progress:nth-child(11) .bar span {
+    width: 50%;
+}
+
 /* progress bar ends*/
 
 /* project section starts */
